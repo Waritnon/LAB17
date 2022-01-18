@@ -1,2 +1,2 @@
-# NAME:
-# STUDENT ID:
+# NAME: นายวริทธิ์ มโนแก้ว
+# STUDENT ID: 640610683
